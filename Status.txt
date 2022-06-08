@@ -1,0 +1,9 @@
+RunProject1.java - complete
+Kiosk.java - complete
+Schedule.java - complete
+Appointment.java - complete
+Patient.java - complete
+Timeslot.java - complete, tested
+Location.java - complete
+Date.java - complete, tested
+Time.java - complete
